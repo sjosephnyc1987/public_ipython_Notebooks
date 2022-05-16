@@ -1,2 +1,3 @@
-# public_ipython_Notebooks
-repository for various public facing ipython notebooks
+# public ipython Jupyter Notebooks
+
+Some projects that I have worked on 
